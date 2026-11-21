@@ -1,0 +1,15 @@
+.vs/
+*.user
+*.suo
+*.VC.db
+*.db
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+YangXuan/x64/
+
